@@ -6,7 +6,7 @@ import math
 
 print("Введите коэффициенты для уравнения")
 print("ax^2 + bx + c = 0:")
-print()
+print("yjdfz kjdfl")
 
 a = float(input("a = "))
 b = float(input("b = "))
